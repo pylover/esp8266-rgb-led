@@ -1,0 +1,12 @@
+*~
+*#
+.#*
+build
+.gdb_history
+screenlog.*
+*.sw[po]
+.output
+.ropeproject
+
+
+
